@@ -30,5 +30,15 @@ namespace Triangle.Models
       }
       return false;
     }
+
+    public bool isEquilateral()
+    {
+      if ((SideOne == SideTwo) && (SideOne == SideThree))
+      {
+        return true;
+      }
+      return false;
+    }
+
   }
 }

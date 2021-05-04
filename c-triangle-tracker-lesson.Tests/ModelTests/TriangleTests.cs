@@ -34,12 +34,26 @@ namespace cTriangleTrackerLesson.Tests
 
     [TestMethod]
 
-    public void isIsosceles_IsoscelesTriangle_true()
+    public void isIsosceles_IsoscelesTriangle_True()
     {
       TriangleModel testTriangle = new TriangleModel(5, 5, 7);
       Assert.AreEqual(true, testTriangle.isIsosceles());
     }
 
+    [TestMethod]
+
+    public void isIsosceles_IsoscelesTriangle_False()
+    {
+      TriangleModel testTriangle = new TriangleModel(5, 6, 7);
+      Assert.AreEqual(false, testTriangle.isIsosceles());
+    }
+
+    [TestMethod]
+    public void isEquilateral_EquilateralTriangle_True()
+    {
+      TriangleModel testTriangle = new TriangleModel(5, 5, 5);
+      Assert.AreEqual(true, testTriangle.isEquilateral());
+    }
   }
 }
 
