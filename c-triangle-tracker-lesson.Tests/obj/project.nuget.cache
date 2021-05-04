@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vd6vtL43luXWuVGljh46QQXOksGpGd0srNW+xtLUX039KJw891r6z/EOQrzk5z9Hm8bHi/6I2R1By+H6RjF3vQ==",
+  "dgSpecHash": "KXGZeoGimlF4HAHDpl4NY0Vp+iKWkmwi6zwxgE5GDxHuCt7rfVZyxbC/kZTA5cFSt16yzhV9ja79DmIzp0i0JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.Tests\\c-triangle-tracker-lesson.Tests.csproj",
+  "projectFilePath": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.tests\\c-triangle-tracker-lesson.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gianc\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\gianc\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,0 +1,16 @@
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.csprojAssemblyReference.cache
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.AssemblyInfoInputs.cache
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.AssemblyInfo.cs
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.csproj.CoreCompileInputs.cache
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\c-triangle-tracker-lesson.exe
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\c-triangle-tracker-lesson.deps.json
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\c-triangle-tracker-lesson.runtimeconfig.json
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\c-triangle-tracker-lesson.runtimeconfig.dev.json
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\c-triangle-tracker-lesson.dll
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\ref\c-triangle-tracker-lesson.dll
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\bin\Debug\net5.0\c-triangle-tracker-lesson.pdb
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.dll
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\ref\c-triangle-tracker-lesson.dll
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.pdb
+C:\Users\gianc\desktop\projects\c-triangle-tracker-lesson.Solution\c-triangle-tracker-lesson\obj\Debug\net5.0\c-triangle-tracker-lesson.genruntimeconfig.cache

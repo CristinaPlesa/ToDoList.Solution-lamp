@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.Tests\\c-triangle-tracker-lesson.Tests.csproj": {}
+    "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.tests\\c-triangle-tracker-lesson.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.Tests\\c-triangle-tracker-lesson.Tests.csproj": {
+    "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.tests\\c-triangle-tracker-lesson.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.Tests\\c-triangle-tracker-lesson.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.tests\\c-triangle-tracker-lesson.Tests.csproj",
         "projectName": "c-triangle-tracker-lesson.Tests",
-        "projectPath": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.Tests\\c-triangle-tracker-lesson.Tests.csproj",
+        "projectPath": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.tests\\c-triangle-tracker-lesson.Tests.csproj",
         "packagesPath": "C:\\Users\\gianc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.Tests\\obj\\",
+        "outputPath": "C:\\Users\\gianc\\desktop\\projects\\c-triangle-tracker-lesson.Solution\\c-triangle-tracker-lesson.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gianc\\AppData\\Roaming\\NuGet\\NuGet.Config"
