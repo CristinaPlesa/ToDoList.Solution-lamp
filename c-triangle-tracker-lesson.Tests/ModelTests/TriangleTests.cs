@@ -15,5 +15,14 @@ namespace cTriangleTrackerLesson.Tests
       Assert.AreEqual(4, testTriangle.SideTwo);
       Assert.AreEqual(5, testTriangle.SideThree);
     }
+
+    [TestMethod]
+
+    public void isTriangle_NotTriangle_NotTriangle()
+    {
+      TriangleModel testTriangle = new TriangleModel(3, 9, 22);
+      Assert.AreEqual(false, testTriangle.isTriangle());
+    }
+
   }
 }

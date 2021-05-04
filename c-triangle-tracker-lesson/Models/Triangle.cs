@@ -13,5 +13,14 @@ namespace Triangle.Models
       SideThree = sideC;
     }
 
+    public bool isTriangle()
+    {
+      if ((SideOne > (SideTwo + SideThree)) || (SideTwo > (SideOne + SideThree)) || (SideThree > (SideOne + SideTwo)))
+      {
+        return false;
+      }
+      return true;
+    }
+
   }
 }
