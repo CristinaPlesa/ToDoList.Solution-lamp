@@ -18,11 +18,31 @@ namespace cTriangleTrackerLesson.Tests
 
     [TestMethod]
 
-    public void isTriangle_NotTriangle_NotTriangle()
+    public void isTriangle_NotTriangle_False()
     {
       TriangleModel testTriangle = new TriangleModel(3, 9, 22);
       Assert.AreEqual(false, testTriangle.isTriangle());
     }
 
+    [TestMethod]
+
+    public void isTriangle_Triangle_True()
+    {
+      TriangleModel testTriangle = new TriangleModel(3, 3, 3);
+      Assert.AreEqual(true, testTriangle.isTriangle());
+    }
+
+    [TestMethod]
+
+    public void isIsosceles_IsoscelesTriangle_true()
+    {
+      TriangleModel testTriangle = new TriangleModel(5, 5, 7);
+      Assert.AreEqual(true, testTriangle.isIsosceles());
+    }
+
   }
 }
+
+// We call our test method IsLeapYear_NumberDivisibleByFour_True because IsLeapYear() will be our method's name.
+// NumberDivisibleByFour is the behavior this first test will test.
+// True is the expected return value.

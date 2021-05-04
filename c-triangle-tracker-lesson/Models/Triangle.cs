@@ -22,5 +22,13 @@ namespace Triangle.Models
       return true;
     }
 
+    public bool isIsosceles()
+    {
+      if ((SideOne == SideTwo) || (SideTwo == SideThree) || (SideThree == SideOne))
+      {
+        return true;
+      }
+      return false;
+    }
   }
 }
